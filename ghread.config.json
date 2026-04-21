@@ -1,0 +1,22 @@
+{
+  "name": "Yinx",
+  "username": "Yinxen",
+  "title": "Developer",
+  "bio": "Passionate developer building innovative solutions",
+  "email": "1423716216@qq.com",
+  "website": "Yinxen.github.io",
+  "theme": "tokyonight",
+  "sections": {
+    "aboutMe": true,
+    "githubStats": true,
+    "topLanguages": true,
+    "streak": true,
+    "contributionGraph": true,
+    "achievementGallery": false,
+    "techTools": false,
+    "blogArticles": false,
+    "featuredProjects": false,
+    "funSections": true,
+    "realTimeStats": false
+  }
+}
