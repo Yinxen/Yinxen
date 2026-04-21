@@ -31,6 +31,9 @@ I'm **Yinx**, and this profile is a glimpse into my journey as a Developer.
 </p>
 
 ---
+###  访客
+![访客数](https://visitor-badge.laobi.icu/badge?page_id=Yinxen.Yinxen)
+---
 ### Contribution Heatmap
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yinxen&theme=tokyonight&hide_border=false)
 
