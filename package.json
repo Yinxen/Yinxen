@@ -1,0 +1,24 @@
+{
+  "name": "@yinxen/hello-world",
+  "version": "1.0.0",
+  "description": "hello world",
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "homepage": "https://github.com/Yinxen/Yinxen#readme",
+  "bugs": {
+    "url": "https://github.com/Yinxen/Yinxen/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yinxen/Yinxen.git"
+  },
+  "license": "ISC",
+  "author": "Yinx",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  }
+}
