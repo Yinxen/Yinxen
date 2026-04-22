@@ -14,6 +14,9 @@
     "type": "git",
     "url": "git+https://github.com/Yinxen/Yinxen.git"
   },
+  "publishConfig":{
+     "@Yinxen:registry":"https://npm.pkg.github.com"
+  },
   "license": "ISC",
   "author": "Yinx",
   "type": "module",
